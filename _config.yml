@@ -18,7 +18,7 @@ minimal_mistakes_skin    : dark # "air", "aqua", "contrast", "dark", "dirt", "ne
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Site tagline" # site tagline that appears below site title in masthead
 name                     : "Evan Ramenskiy"
 description              : "An amazing website."
 url                      : https://ramenskiy.com
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ramenskiy/github-pages-ramenskiy
 teaser                   : /assets/images/1.jpg
 logo                     : /assets/images/logo.png
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Masthead title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
