@@ -2,12 +2,21 @@
 layout: single
 title:  "Welcome to Jekyll!"
 header:
-  teaser: https://github.com/ramenskiy/github-pages-ramenskiy/blob/main/assets/images/1.jpg
+  teaser: /assets/images/unsplash-gallery-image-3-th.jpg
 categories: 
   - Jekyll
 tags:
   - edge case
 ---
+
+{% capture fig_img %}
+![Foo]({{ "/assets/images/unsplash-gallery-image-3.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Unsplash.</figcaption>
+</figure>
 
 # Welcome to my first blogpost
 
