@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : https://ramenskiy.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ramenskiy/github-pages-ramenskiy
-teaser                   : /assets/images/1.jpg
+teaser                   : assets/images/unsplash-image-7.jpg
 logo                     : /assets/images/logo.png
 masthead_title           : "Masthead title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
