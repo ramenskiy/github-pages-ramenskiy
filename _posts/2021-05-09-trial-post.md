@@ -2,7 +2,7 @@
 layout: single
 title:  "Welcome to Jekyll!"
 header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
+  teaser: "1.jpg"
 categories: 
   - Jekyll
 tags:
