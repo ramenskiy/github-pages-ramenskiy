@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! 2"
 header:
   teaser: "/assets/images/500x300.png"
 categories: 
