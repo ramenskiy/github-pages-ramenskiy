@@ -2,7 +2,7 @@
 layout: single
 title:  "Welcome to Jekyll!"
 header:
-  teaser: /assets/images/1.jpg
+  teaser: D:\01_My Documents\github-pages-ramenskiy\docs\assets\images\unsplash-image-1.jpg
 categories: 
   - Jekyll
 tags:
