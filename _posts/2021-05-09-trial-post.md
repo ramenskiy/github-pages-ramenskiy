@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! ER-trial"
 header:
   teaser: /assets/images/unsplash-gallery-image-3-th.jpg
 categories: 
