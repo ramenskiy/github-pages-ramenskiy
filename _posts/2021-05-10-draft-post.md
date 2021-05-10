@@ -2,7 +2,7 @@
 layout: single
 title:  "Draft Post"
 header:
-  teaser:  
+  teaser:  /assets/images/500x300.png
 categories: 
   - Jekyll
 tags:
