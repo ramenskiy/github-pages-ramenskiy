@@ -2,7 +2,7 @@
 layout: single
 title:  "Welcome to Jekyll!"
 header:
-  teaser: "1.jpg"
+  teaser: /assets/images/1.jpg
 categories: 
   - Jekyll
 tags:
