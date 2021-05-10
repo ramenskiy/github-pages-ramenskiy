@@ -1,5 +1,7 @@
 ---
 title: "Post: Image (Caption)"
+header:
+  teaser: "/assets/images/500x300.png"
 categories:
   - Post Formats
 tags:
